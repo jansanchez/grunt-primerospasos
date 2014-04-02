@@ -2,22 +2,8 @@
   "name": "grunt-primerospasos",
   "version": "0.0.1",
   "description": "Descripcion de mi primer proyecto en GruntJs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jansanchez/grunt-primerospasos"
-  },
-  "keywords": [
-    "gruntJs"
-  ],
   "author": "jansanchez",
   "license": "BSD",
-  "bugs": {
-    "url": "https://github.com/jansanchez/grunt-primerospasos/issues"
-  },
   "devDependencies": {
     "grunt": "~0.4.4"
   }
