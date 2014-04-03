@@ -1,0 +1,1 @@
+function Persona(){this.anoNacimiento=1986}Persona.prototype.getEdad=function(){var d=new Date;return this.edad=d.getFullYear()-this.anoNacimiento,this.edad};
